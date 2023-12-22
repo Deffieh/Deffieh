@@ -3,7 +3,7 @@
 #
 I'm passionate about computer science, a field that not only defines my academic and professional background but also serves as my true catalyst for growth. My insatiable curiosity and thirst for knowledge drive me to constantly embrace new challenges.
 
-I thrive on delving into novel concepts and expanding my understanding through both structured courses and independent studies. This passion has not only solidified my existing skills but has also opened doors to exciting possibilities and broader horizons. Looking beyond acquired knowledge is a perpetual source of inspiration for me, and I'm always on the lookout for fresh learning opportunities that enable both personal and professional growth.ù
+I thrive on delving into novel concepts and expanding my understanding through both structured courses and independent studies. This passion has not only solidified my existing skills but has also opened doors to exciting possibilities and broader horizons. Looking beyond acquired knowledge is a perpetual source of inspiration for me, and I'm always on the lookout for fresh learning opportunities that enable both personal and professional growth.
 
 #
 
