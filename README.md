@@ -62,7 +62,6 @@ Beyond the academic realm, my passion became a driving force in my professional 
 
 #
 
-<details>
                                                                           ,--, 
       ,---,                                                             ,--.'| 
     .'  .' `\                .--.,    .--.,    ,--,                  ,--,  | : 
@@ -78,7 +77,8 @@ Beyond the academic realm, my passion became a driving force in my professional 
   |   ,.'        \   \  /  |  |,'   |  |,'   |  ,   /   \   \  /  |   ,/       
   '---'           `----'   `--'     `--'      ---`-'     `----'   '---'        
                                                           
-</details>
+
+
 ---
 <!--
 **Deffieh/Deffieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
