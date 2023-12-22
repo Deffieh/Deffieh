@@ -10,7 +10,7 @@ I thrive on delving into novel concepts and expanding my understanding through b
 **`"Deffieh" is shorthand for "Diffie-Hellman," a pivotal cryptographic protocol enabling secure key exchange over an insecure network. `**
 
 
-   <p align="left">
+   <p align="center">
     <a href="https://it.linkedin.com/in/abdelhamid-badrane-5a6b4b185" target="_blank">
       <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
     </a>
