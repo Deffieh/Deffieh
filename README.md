@@ -59,9 +59,10 @@ In the realm of software development, I found joy in crafting solutions that tra
 
 Beyond the academic realm, my passion became a driving force in my professional endeavors. I actively sought opportunities to apply my knowledge to real-world projects, collaborating with diverse teams and leveraging my skills to create innovative solutions. The dynamic nature of technology ensures that my journey is an ever-evolving adventure, and I eagerly anticipate the next set of challenges that will fuel my growth as a developer and lifelong learner.
 </details>
+
 #
+
 <details>
- <summary><h3>ASCII ART</h3></summary>
                                                                           ,--, 
       ,---,                                                             ,--.'| 
     .'  .' `\                .--.,    .--.,    ,--,                  ,--,  | : 
@@ -77,7 +78,7 @@ Beyond the academic realm, my passion became a driving force in my professional 
   |   ,.'        \   \  /  |  |,'   |  |,'   |  ,   /   \   \  /  |   ,/       
   '---'           `----'   `--'     `--'      ---`-'     `----'   '---'        
                                                           
-
+</details>
 ---
 <!--
 **Deffieh/Deffieh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
